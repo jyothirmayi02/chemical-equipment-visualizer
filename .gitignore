@@ -17,3 +17,10 @@ __pycache__/
 
 # IDE files
 .vscode/
+
+# Uploaded CSVs
+backend/uploads/
+
+# Generated PDFs
+*.pdf
+
