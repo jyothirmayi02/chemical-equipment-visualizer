@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+backend/venv/
+desktop-frontend/venv/
+
+# Node modules
+web-frontend/chemviz-web/node_modules/
+
+# Django cache
+__pycache__/
+
+# Logs
+*.log
+
+# Environment vars
+.env
+
+# IDE files
+.vscode/
